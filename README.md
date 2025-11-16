@@ -16,13 +16,13 @@ Each episode will have an image that is hyperlinked to the podcast episode with 
 Here is how each page will playout: 
 
 **Home**: 
-h1 - LCS Report Podcast
-p - introduction text
-featured video block
+- h1: LCS Report Podcast
+- p: introduction text
+- video:featured video block
 
 **Podcast**
-h1 - Our Latest Episodes!
-p - introduction text
-three image blocks that are hyperlinked to external pages.
+- h1: Our Latest Episodes!
+- p : introduction text
+- img:three image blocks that are hyperlinked to external pages.
 
 Having the navigation bar in the same position helps the design remain consistent, making the website accessible for its users as the position of the navigation bar and its buttons will be in the same place. 
