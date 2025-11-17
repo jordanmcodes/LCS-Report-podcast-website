@@ -30,3 +30,6 @@ Having the navigation bar in the same position helps the design remain consisten
 
 ### Wireframe for the home page
 ![Home page](Assets/Images/home-wireframe.png)
+
+### Wireframe for the podcast page
+![Podcast](Assets/Images/podcast-wireframe.png)
