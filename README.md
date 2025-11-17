@@ -33,3 +33,6 @@ Having the navigation bar in the same position helps the design remain consisten
 
 ### Wireframe for the podcast page
 ![Podcast](Assets/Images/podcast-wireframe.png)
+
+### Wireframe for the contact us page 
+![Contact us](Assets/Images/contact-wireframe.png)
