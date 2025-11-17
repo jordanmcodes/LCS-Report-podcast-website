@@ -27,3 +27,6 @@ Here is how each page will playout:
 - img:three image blocks that are hyperlinked to external pages.
 
 Having the navigation bar in the same position helps the design remain consistent, making the website accessible for its users as the position of the navigation bar and its buttons will be in the same place. 
+
+### Wireframe for the home page
+![Home page](Assets/Images/home-wireframe.png)
