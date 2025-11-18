@@ -1,5 +1,9 @@
 
 /* Navigation bar design from W3 schools */
+.navbar {
+    width: 800px;
+    margin: 0 auto;
+}
 .navbar ul {
     list-style-type: none;
     background-color:#ffbd59;
@@ -7,6 +11,9 @@
     overflow: hidden;
     margin:0;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+     font-size: 30px;
 }
 
 .navbar a{
@@ -19,10 +26,6 @@
 
 .navbar a:hover{
     background-color:grey ;
-}
-
-.navbar li {
-    float: left;
 }
 
 body{
