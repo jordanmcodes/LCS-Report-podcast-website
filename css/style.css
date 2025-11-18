@@ -1,0 +1,31 @@
+
+/* Navigation bar design from W3 schools */
+.navbar ul {
+    list-style-type: none;
+    background-color:#ffbd59;
+    padding: 0;
+    overflow: hidden;
+    margin:0;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 20px; ;
+}
+
+.navbar a:hover{
+    background-color:grey ;
+}
+
+.navbar li {
+    float: left;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
