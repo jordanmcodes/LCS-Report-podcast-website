@@ -51,3 +51,16 @@ Going back to the background, it will be clear and not distract the users away f
 Autoplaying videos are annoying, which is why every video on the website will have to be played manually. 
 
 Font size and font used will be consistent throughout, making them both easy to read. 
+
+## Organization
+The information on every page will be displayed in a clear and precise manner. Underneat the navigation bar on each page of my website there will be a large h1/h2 clearly explaining what page you are on.
+
+Because this is a podcast, these videos are prioritised to be placed higher on the pages where applicable. For example, the home page. The featured video will be displayed underneath the introduction paragraph, allowing for the audience to dive right into the content. 
+
+To understand what page you are on even clearer, the button on the navigation bar will have a slight color change, indicating that this is the page you are on. Each hyperlink will go from one page to the next, meaning there is no broken navigation chain, you can go from page to page as many times as you want. 
+
+All videos on the podcast page will open a popup video, these videos will not automatically play as this can become irritating to the spectating audience. 
+
+When the user opens up the home page. They will know what the content is about immediately. Our opening paragraph and featured video will be the hook. So when they open the site, they will see the large navigation bar, then the introduction paragraph, followed by a large featured video.
+
+Each page will follow a header, paragraph, and content formula. 
