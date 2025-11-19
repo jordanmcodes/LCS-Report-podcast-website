@@ -17,11 +17,13 @@
 }
 
 .navbar a{
-    color: black;
+    color: beige;
     text-decoration: none;
     display: block;
     text-align: center;
     padding: 20px; ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: black;
 }
 
 .navbar a:hover{
@@ -31,8 +33,20 @@
 body{
     margin: 0;
     padding: 0;
+    
 }
 
 h1{text-align: center;
 text-decoration: underline;
+color: beige;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #1a1054;
+}
+
+.intro-text{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
