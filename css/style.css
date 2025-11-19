@@ -3,6 +3,7 @@
 .navbar {
     width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 .navbar ul {
     list-style-type: none;
@@ -30,11 +31,7 @@
     background-color:#ebca99;
 }
 
-body{
-    margin: 0;
-    padding: 0;
-    
-}
+
 
 h1{text-align: center;
 text-decoration: underline;
@@ -44,9 +41,12 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 body{
     background-color: #1a1054;
+    width: 60%;
+    margin: 0 auto;
 }
 
 .intro-text{
     color: beige;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
