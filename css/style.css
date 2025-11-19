@@ -25,10 +25,14 @@
 }
 
 .navbar a:hover{
-    background-color:grey ;
+    background-color:#ebca99;
 }
 
 body{
     margin: 0;
     padding: 0;
+}
+
+h1{text-align: center;
+text-decoration: underline;
 }
