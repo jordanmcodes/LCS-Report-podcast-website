@@ -60,3 +60,10 @@ body{
     text-align: center;
     line-height: 1.5;
 }
+/* featured video styling */
+.home-video{
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
