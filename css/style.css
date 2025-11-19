@@ -1,7 +1,7 @@
 
 /* Navigation bar design from W3 schools */
 .navbar {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     text-align: center;
 }
@@ -29,10 +29,11 @@
 
 .navbar a:hover{
     background-color:#ebca99;
+    color: black;
 }
 
 
-
+/* Styling for the H1's */
 h1{text-align: center;
 text-decoration: underline;
 color: beige;
@@ -41,12 +42,21 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 body{
     background-color: #1a1054;
-    width: 60%;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
 }
-
+/* text settings for all text on the website */
 .intro-text{
     color: beige;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+/* content style for the home page */
+.home-content{
+    max-width: 900px;
+    margin: 0 auto;
     text-align: center;
+    line-height: 1.5;
 }
