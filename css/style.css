@@ -5,7 +5,9 @@
     margin: 0 auto;
     text-align: center;
 }
-.navbar ul {
+
+/*nav bar design courtesy of Bro Code on YouTube */
+.navbar ul  {
     list-style-type: none;
     background-color:#ffbd59;
     padding: 0;
@@ -58,7 +60,7 @@ body{
 
 /* content style for the home page */
 .home-content{
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     text-align: center;
     line-height: 1.5;
@@ -69,4 +71,15 @@ body{
     height: 500px;
     margin: 0 auto;
     text-align: center;
+}
+
+/* Styling of the footer courtesy of W3 schools */
+.footer{
+    background-color:#ebca99;
+    color:black;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px auto 0 auto;
+    padding: 10px 0; 
+    width: 1000px;
 }
