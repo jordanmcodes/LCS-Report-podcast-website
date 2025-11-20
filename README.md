@@ -68,3 +68,6 @@ Each page will follow a header, paragraph, and content formula.
 
 ### CSS Validate
 ![CSS Validate](Assets/Images/css-validate.png)
+
+### index page validate
+![index validate](Assets/Images/index-validate.png)
