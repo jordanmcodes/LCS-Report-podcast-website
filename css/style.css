@@ -88,9 +88,9 @@ body{
 .podcast-content{
     max-width: 1000px;
     margin: 0 auto;
-    text-align: center;
     line-height: 1.5;
     flex: 1;
+    text-align: left;
 }
 
 .contact-content{
@@ -99,4 +99,51 @@ body{
     text-align: center;
     line-height: 1.5;
     flex: 1;
+}
+
+.episode-1-text{
+     color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-top: 5%;
+    margin-left: 430px;
+    
+}
+
+.podcast-ep-1{
+    float: left;
+}
+
+.episode-2-text{
+    color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-top: 10%;
+    margin-left: 430px;
+    
+}
+.podcast-ep-2{
+    float: left;
+    clear: both;
+    padding-top: 5%;
+}
+
+.podcast-ep-3{
+    float: left;
+    clear: both;
+    padding-top: 5%;
+}
+
+.episode-3-text{
+       color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 1.5;
+    font-weight: bold;
+    padding-top: 12%;
+    margin-left: 430px;
 }
