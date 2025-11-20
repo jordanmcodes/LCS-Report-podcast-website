@@ -91,6 +91,7 @@ body{
     line-height: 1.5;
     flex: 1;
     text-align: left;
+    margin-bottom: 120px;
 }
 
 .contact-content{
@@ -136,6 +137,7 @@ body{
     float: left;
     clear: both;
     padding-top: 5%;
+ 
 }
 
 .episode-3-text{
