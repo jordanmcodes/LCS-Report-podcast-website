@@ -77,7 +77,6 @@ body{
 /* Styling of the footer courtesy of W3 schools */
 .footer{
     position: fixed;
-    left: 50;
     bottom: 0;
     width: 1000px;
     background-color:#ebca99;

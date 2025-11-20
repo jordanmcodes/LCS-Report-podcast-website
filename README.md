@@ -52,7 +52,7 @@ Autoplaying videos are annoying, which is why every video on the website will ha
 
 Font size and font used will be consistent throughout, making them both easy to read. 
 
-## Organization
+### Organization
 The information on every page will be displayed in a clear and precise manner. Underneat the navigation bar on each page of my website there will be a large h1/h2 clearly explaining what page you are on.
 
 Because this is a podcast, these videos are prioritised to be placed higher on the pages where applicable. For example, the home page. The featured video will be displayed underneath the introduction paragraph, allowing for the audience to dive right into the content. 
@@ -64,3 +64,8 @@ All videos on the podcast page will open a popup video, these videos will not au
 When the user opens up the home page. They will know what the content is about immediately. Our opening paragraph and featured video will be the hook. So when they open the site, they will see the large navigation bar, then the introduction paragraph, followed by a large featured video.
 
 Each page will follow a header, paragraph, and content formula. 
+
+### CSS Validate
+
+I successfully validated my style sheet with the W3C CSS Validator
+![css validate](Assets/Images/css-validate.png)
