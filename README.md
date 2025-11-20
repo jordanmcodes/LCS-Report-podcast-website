@@ -71,3 +71,6 @@ Each page will follow a header, paragraph, and content formula.
 
 ### index page validate
 ![index validate](Assets/Images/index-validate.png)
+
+### podcast page validate
+![podcast validate](Assets/Images/podcast-validate.png)
