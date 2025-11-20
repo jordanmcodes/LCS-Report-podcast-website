@@ -74,3 +74,6 @@ Each page will follow a header, paragraph, and content formula.
 
 ### podcast page validate
 ![podcast validate](Assets/Images/podcast-validate.png)
+
+### contact page validate
+![contact validate](Assets/Images/contact-validate.png)
