@@ -65,7 +65,8 @@ When the user opens up the home page. They will know what the content is about i
 
 Each page will follow a header, paragraph, and content formula. 
 
+
 ### CSS Validate
 
 I successfully validated my style sheet with the W3C CSS Validator
-![css validate](Assets/Images/css-validate.png)
+![CSS](Assets/Images/css-validate.png)
