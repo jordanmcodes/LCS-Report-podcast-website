@@ -64,6 +64,7 @@ body{
     margin: 0 auto;
     text-align: center;
     line-height: 1.5;
+    flex: 1;
 }
 /* featured video styling */
 .home-video{
@@ -75,11 +76,27 @@ body{
 
 /* Styling of the footer courtesy of W3 schools */
 .footer{
-    background-color:#ebca99;
-    color:black;
-    text-align: center;
-    font-weight: bold;
-    margin: 20px auto 0 auto;
-    padding: 10px 0; 
+    position: fixed;
+    left: 50;
+    bottom: 0;
     width: 1000px;
+    background-color:#ebca99;
+    color: black;
+    text-align: center;
+}
+
+.podcast-content{
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.5;
+    flex: 1;
+}
+
+.contact-content{
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.5;
+    flex: 1;
 }
