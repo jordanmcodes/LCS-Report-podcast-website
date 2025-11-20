@@ -64,3 +64,7 @@ All videos on the podcast page will open a popup video, these videos will not au
 When the user opens up the home page. They will know what the content is about immediately. Our opening paragraph and featured video will be the hook. So when they open the site, they will see the large navigation bar, then the introduction paragraph, followed by a large featured video.
 
 Each page will follow a header, paragraph, and content formula. 
+
+
+### CSS Validate
+![CSS Validate](Assets/images/css-validate.png)
