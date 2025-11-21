@@ -83,3 +83,16 @@ Each page will follow a header, paragraph, and content formula.
 
 If you wish to visit the site, you can do so by clicking on the link https://jordanmcodes.github.io/LCS-Report-podcast-website/
 
+### Finished home page
+![home page](Assets/Images/home-page.png)
+
+As a user, the main thing that I want to see from this home page is an idea of what the podcast is about. I want to see a description and featured video from the jump
+
+### Finished podcast page
+![podcast page](Assets/Images/podcast-page.png)
+
+As a user, the main thing I want from a podcast page is to see the full list of episodes available. Having more than one is important to me, so I want to make sure that I am seeing a full variety of episodes.
+
+### Finished Contact page
+
+As a user, I want an easy way to contact the podcast I am a fan of. This should allow me to send a message, as long as I want, to the podcast and know they are going to be recieving it. 
