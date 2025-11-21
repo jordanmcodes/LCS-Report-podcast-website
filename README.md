@@ -135,3 +135,32 @@ As a user, I want the navigation bar to be clear and precise. I want when I hove
 
 ### Code separation
 All website code - html and css was written by me. Any code that is commented was inspired by outside sources clearly identified in the css code. 
+
+### Testing
+
+All of the testing I did was throughout the development stage to ensure succesful deployment
+## navigation
+| Testing | Expected Outcome | Result
+| Click home button | Page will load home page | Passed
+| Click podcast | Podcast page will load | passed 
+| click contact us | contact us page will load | passed
+
+## youtube videos
+| Testing | Expected Outcome | Result
+| home page video | video will play | passed
+| episode 1 | video will play | passed
+| episode 2 | video will play | passed
+| episode 3 | video will play | passed
+
+## contact form
+| Testing | Expected Outcome | Result
+| email text box | I can write in box | passed
+| x handle | I can write in box | passed
+| comment box| I can write in box | passed
+|submit | button will submit form | passed
+
+## responsiveness test 
+| testing | expected outcome | result
+| resize window | readable content | passed
+| navigation resize | bar still visible | passed
+|video resize | visible videos | passed 
