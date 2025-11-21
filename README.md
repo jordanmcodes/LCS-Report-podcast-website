@@ -77,3 +77,9 @@ Each page will follow a header, paragraph, and content formula.
 
 ### contact page validate
 ![contact validate](Assets/Images/contact-validate.png)
+
+
+### How to deploy the website
+
+If you wish to visit the site, you can do so by clicking on the link https://jordanmcodes.github.io/LCS-Report-podcast-website/
+
