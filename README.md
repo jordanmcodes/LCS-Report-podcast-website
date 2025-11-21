@@ -140,27 +140,40 @@ All website code - html and css was written by me. Any code that is commented wa
 
 All of the testing I did was throughout the development stage to ensure succesful deployment
 ## navigation
-| Testing | Expected Outcome | Result
-| Click home button | Page will load home page | Passed
-| Click podcast | Podcast page will load | passed 
-| click contact us | contact us page will load | passed
+
+| Click home button > Page will load home page > Passed
+
+| Click podcast > Podcast page will load > passed 
+
+| click contact us > contact us page will load > passed
 
 ## youtube videos
-| Testing | Expected Outcome | Result
-| home page video | video will play | passed
-| episode 1 | video will play | passed
-| episode 2 | video will play | passed
-| episode 3 | video will play | passed
+
+home page video > video will play > passed
+
+episode 1 > video will play > passed
+
+episode 2 > video will play > passed
+
+episode 3 > video will play > passed
 
 ## contact form
-| Testing | Expected Outcome | Result
-| email text box | I can write in box | passed
-| x handle | I can write in box | passed
-| comment box| I can write in box | passed
-|submit | button will submit form | passed
+
+ email text box > I can write in box > passed
+
+ x handle > I can write in box > passed
+
+ comment box > I can write in box > passed
+
+ submit > button will submit form > passed
 
 ## responsiveness test 
-| testing | expected outcome | result
-| resize window | readable content | passed
-| navigation resize | bar still visible | passed
-|video resize | visible videos | passed 
+resize window > readable content > passed
+
+navigation resize > bar still visible > passed
+
+video resize > visible videos > passed 
+
+## deployable website 
+
+website is fully deployed in the link: https://jordanmcodes.github.io/LCS-Report-podcast-website/podcast.html
