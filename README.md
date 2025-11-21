@@ -100,3 +100,38 @@ As a user, I want an easy way to contact the podcast I am a fan of. This should 
 ### Finished navigation
 ![navigation](Assets/Images/navigation.png)
 As a user, I want the navigation bar to be clear and precise. I want when I hover over a button to know what I am hovering over. 
+
+### All code from outside sources
+
+/* Styling of the footer courtesy of W3 schools */
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 1000px;
+    background-color:#ebca99;
+    color: black;
+    text-align: center;
+}
+
+/*nav bar design courtesy of Bro Code on YouTube */
+.navbar ul  {
+    list-style-type: none;
+    background-color:#ffbd59;
+    padding: 0;
+    overflow: hidden;
+    margin:0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+     font-size: 30px;
+}
+
+/* Navigation bar design from W3 schools */
+.navbar {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+### Code separation
+All website code - html and css was written by me. Any code that is commented was inspired by outside sources clearly identified in the css code. 
