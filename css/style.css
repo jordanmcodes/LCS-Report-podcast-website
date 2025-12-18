@@ -50,7 +50,7 @@ body{
 }
 /* text settings for all text on the website */
 .intro-text{
-    color: red;
+    color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     line-height: 1.5;
