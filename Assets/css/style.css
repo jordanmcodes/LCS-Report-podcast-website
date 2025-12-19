@@ -118,6 +118,7 @@ height: 100%;
     padding-top: 5%;
     margin: 5% auto 0 auto;
     max-width: 600px;
+    flex-wrap: wrap;
     
 }
 
