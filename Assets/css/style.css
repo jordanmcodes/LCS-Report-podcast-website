@@ -1,7 +1,8 @@
 
 /* Navigation bar design from W3 schools */
 .navbar {
-    width: 1000px;
+    width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
     text-align: center;
 }
@@ -60,6 +61,7 @@ body{
 
 /* content style for the home page */
 .home-content{
+    width: 90%;
     max-width: 1000px;
     margin: 0 auto;
     text-align: center;
