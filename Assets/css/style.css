@@ -57,14 +57,6 @@ body{
     line-height: 1.5;
     font-weight: bold;
 }
-
-.home-content,
-.podcast-content,
-.contact-content {
-    width: 90%;
-    max-width: 1000px;
-    margin: 0 auto;
-}
 /* content style for the home page */
 .home-content{
     width: 90%;
