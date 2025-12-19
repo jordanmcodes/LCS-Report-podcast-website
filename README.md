@@ -9,7 +9,7 @@ Users will be able to find the latest episodes with in-depth video descriptions 
 ## How you can deploy the website
 You can either access the website through this link: https://jordanmcodes.github.io/LCS-Report-podcast-website/index.html
 
-### Or you can deploy the webiste yourself:
+### Or you can deploy the website yourself:
 
 - Download the repository from github here: https://github.com/jordanmcodes/LCS-Report-podcast-website
 - Ensure all html, css and asset files are in the same structure that I have in place
@@ -83,7 +83,7 @@ Font size and font used will be consistent throughout, making them both easy to 
 For youtube videos opening in a new tab. YouTube has a built in feature for websites that allows you to open a new tab simply through clicking the title of the video. 
 
 ## Organization
-The information on every page will be displayed in a clear and precise manner. Underneat the navigation bar on each page of my website there will be a large h1/h2 clearly explaining what page you are on.
+The information on every page will be displayed in a clear and precise manner. Underneath the navigation bar on each page of my website there will be a large h1/h2 clearly explaining what page you are on.
 
 Because this is a podcast, these videos are prioritised to be placed higher on the pages where applicable. For example, the home page. The featured video will be displayed underneath the introduction paragraph, allowing for the audience to dive right into the content. 
 
