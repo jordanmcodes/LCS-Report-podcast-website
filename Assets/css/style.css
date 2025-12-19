@@ -65,14 +65,6 @@ body{
     max-width: 1000px;
     margin: 0 auto;
 }
-
-.home-video iframe,
-.podcast-ep-1,
-.podcast-ep-2,
-.podcast-ep-3 {
-    width: 100%;
-    height: auto;
-}
 /* content style for the home page */
 .home-content{
     width: 90%;
