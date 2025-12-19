@@ -167,4 +167,6 @@ All website code - html and css was written by me. Any code that is commented wa
 
 | Website feature | Action | Expected Result | Actual Result |
 |-----------------|--------|-----------------|---------------|
-| Home Button | Click home button | The button will do nothing |
+| Home Button | Click home button | The page will reset | Page resets |
+| Podcast Button | Clock podcast button | The website will navigate to podcast page | Website navigates to podcast page | 
+| Contact Us Button | Click Contact Us Button | Website will navigate to Contact Us Page | Website navigates to Contact Us page | 
