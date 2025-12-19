@@ -1,3 +1,27 @@
+## What is the purpose for the website?
+This website is to provide a central hub for the fans of the LCS Report podcast. A place where they will be able to stay up to date on the latest videos while also providing a place for those who are impaired and may not be able to see the videos, our descriptions next to each video will give them all of the information they need. It's designed to give them a clearer way of accessing all of our content. 
+
+## What value does my website provide?
+Users will be able to find the latest episodes with in-depth video descriptions next to each episode. Our website embeds the youtube videos onto the page so once they are done with one episode, they can move onto the next. 
+
+## How you can deploy the website
+You can either access the website through this link: https://jordanmcodes.github.io/LCS-Report-podcast-website/index.html
+
+Or you can deploy the webiste yourself:
+
+- Download the repository from github here: https://github.com/jordanmcodes/LCS-Report-podcast-website
+- Ensure all html, css and asset files are in the same structure that I have in place
+- Push the repository that you have just downloaded to github, enabling the pages in the repository settings
+- Wait for github to produce a working link
+
+## Code that is from external sources: 
+
+My navigation bar design was guided by W3Schools (https://www.w3schools.com/howto/howto_js_topnav.asp)
+
+My navbar list was inspired by Bro Codez on YouTube (https://www.youtube.com/@BroCodez)
+
+My footer design was inspired by W3Schools (https://www.w3schools.com/howto/howto_css_fixed_footer.asp)
+
 ## Website design using wireframes
 This website will be a simple yet effective website for my LCS Report podcast. This will give our audience a place to see all of our content under one roof. 
 
