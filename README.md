@@ -22,6 +22,7 @@ My navbar list was inspired by Bro Codez on YouTube (https://www.youtube.com/@Br
 
 My footer design was inspired by W3Schools (https://www.w3schools.com/howto/howto_css_fixed_footer.asp)
 
+All other code for the website was created by me and inspired from the countles lectures by NCC London. This includes the html for each page, the css for layout, colors etc, and the embedded youtube videos. 
 ## Website design using wireframes
 This website will be a simple yet effective website for my LCS Report podcast. This will give our audience a place to see all of our content under one roof. 
 
