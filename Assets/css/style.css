@@ -116,10 +116,7 @@ height: 100%;
     line-height: 1.5;
     font-weight: bold;
     padding-top: 5%;
-    margin-left: 430px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-    grid-gap: 1rem;    
+    margin-left: 430px;    
 }
 
 .podcast-ep-1{
