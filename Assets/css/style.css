@@ -159,17 +159,26 @@ height: 100%;
 
     .podcast-ep-1,
     .episode-1-text {
-        display: grid;
+  display: grid;
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   grid-gap: 1rem;
   width: fit-content;
+  color: #ffbd59;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
     }
 
     .podcast-ep-2,
     .episode-2-text {
-        display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-  grid-gap: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    grid-gap: 1rem;
+    width: fit-content;
+    color: #ffbd59;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
     }
 
     .podcast-ep-3,
@@ -177,4 +186,9 @@ height: 100%;
         display: grid;
   grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
   grid-gap: 1rem;
+  width: fit-content;
+   color: #ffbd59;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
     }
