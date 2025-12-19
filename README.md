@@ -213,3 +213,7 @@ All website code - html and css was written by me. Any code that is commented wa
 |Videos | Check alt text | Each video has an alt text for users | Alt text is correct | 
 | Colours | Check colours | All colours work well and don't clash | Colours mesh well | 
 | Aria labels | Inspect | Each video has descriptive aria label | labels are present 
+
+# Lighthouse performance checker 
+
+![Lighthouse](Assets/Images/lighthouse.png)
