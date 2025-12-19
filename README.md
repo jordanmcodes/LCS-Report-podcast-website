@@ -1,3 +1,5 @@
+# LCS Report Podcast website
+
 ## What is the purpose for the website?
 This website is to provide a central hub for the fans of the LCS Report podcast. A place where they will be able to stay up to date on the latest videos while also providing a place for those who are impaired and may not be able to see the videos, our descriptions next to each video will give them all of the information they need. It's designed to give them a clearer way of accessing all of our content. 
 
@@ -7,14 +9,14 @@ Users will be able to find the latest episodes with in-depth video descriptions 
 ## How you can deploy the website
 You can either access the website through this link: https://jordanmcodes.github.io/LCS-Report-podcast-website/index.html
 
-Or you can deploy the webiste yourself:
+### Or you can deploy the webiste yourself:
 
 - Download the repository from github here: https://github.com/jordanmcodes/LCS-Report-podcast-website
 - Ensure all html, css and asset files are in the same structure that I have in place
 - Push the repository that you have just downloaded to github, enabling the pages in the repository settings
 - Wait for github to produce a working link
 
-## Code that is from external sources: 
+# Code that is from external sources: 
 
 My navigation bar design was guided by W3Schools (https://www.w3schools.com/howto/howto_js_topnav.asp)
 
@@ -22,6 +24,7 @@ My navbar list was inspired by Bro Codez on YouTube (https://www.youtube.com/@Br
 
 My footer design was inspired by W3Schools (https://www.w3schools.com/howto/howto_css_fixed_footer.asp)
 
+### Code written by me
 All other code for the website was created by me and inspired from the countles lectures by NCC London. This includes the html for each page, the css for layout, colors etc, and the embedded youtube videos. 
 ## Website design using wireframes
 This website will be a simple yet effective website for my LCS Report podcast. This will give our audience a place to see all of our content under one roof. 
@@ -53,16 +56,16 @@ Here is how each page will playout:
 
 Having the navigation bar in the same position helps the design remain consistent, making the website accessible for its users as the position of the navigation bar and its buttons will be in the same place. 
 
-### Wireframe for the home page
+## Wireframe for the home page
 ![Home page](Assets/Images/home-wireframe.png)
 
-### Wireframe for the podcast page
+## Wireframe for the podcast page
 ![Podcast](Assets/Images/podcast-wireframe.png)
 
-### Wireframe for the contact us page 
+## Wireframe for the contact us page 
 ![Contact us](Assets/Images/contact-wireframe.png)
 
-### How I will make my website accessible 
+## How I will make my website accessible 
 My website will be easy to read due to the stark contrast differences between the colors I will be using on the website. In the podcasts graphics on youtube, we use a darker blue background combined with golden borders, graphics etc. This will be the same for the website. I will use the same background image for the website, with the navigation bar being the same golden color used in the podcast itself.
 
 All of my headings will be clear and easy to read. This is so that people that need to use screen readers will be able to quickly identify what is on the page. 
@@ -79,7 +82,7 @@ Font size and font used will be consistent throughout, making them both easy to 
 
 For youtube videos opening in a new tab. YouTube has a built in feature for websites that allows you to open a new tab simply through clicking the title of the video. 
 
-### Organization
+## Organization
 The information on every page will be displayed in a clear and precise manner. Underneat the navigation bar on each page of my website there will be a large h1/h2 clearly explaining what page you are on.
 
 Because this is a podcast, these videos are prioritised to be placed higher on the pages where applicable. For example, the home page. The featured video will be displayed underneath the introduction paragraph, allowing for the audience to dive right into the content. 
@@ -93,42 +96,37 @@ When the user opens up the home page. They will know what the content is about i
 Each page will follow a header, paragraph, and content formula. 
 
 
-### CSS Validate
+## CSS Validate
 ![CSS Validate](Assets/Images/css-validate.png)
 
-### index page validate
+## index page validate
 ![index validate](Assets/Images/index-validate.png)
 
-### podcast page validate
+## podcast page validate
 ![podcast validate](Assets/Images/podcast-validate.png)
 
-### contact page validate
+## contact page validate
 ![contact validate](Assets/Images/contact-validate.png)
 
-
-### How to deploy the website
-
-If you wish to visit the site, you can do so by clicking on the link https://jordanmcodes.github.io/LCS-Report-podcast-website/
-
-### Finished home page
+# Finished home page
 ![home page](Assets/Images/home-page.png)
 
 As a user, the main thing that I want to see from this home page is an idea of what the podcast is about. I want to see a description and featured video from the jump
 
-### Finished podcast page
+# Finished podcast page
 ![podcast page](Assets/Images/podcast-page.png)
 
 As a user, the main thing I want from a podcast page is to see the full list of episodes available. Having more than one is important to me, so I want to make sure that I am seeing a full variety of episodes.
 
-### Finished Contact page
+# Finished Contact page
 ![contact page](Assets/Images/contact-page.png)
 As a user, I want an easy way to contact the podcast I am a fan of. This should allow me to send a message, as long as I want, to the podcast and know they are going to be recieving it. 
 
-### Finished navigation
+# Finished navigation
 ![navigation](Assets/Images/navigation.png)
 As a user, I want the navigation bar to be clear and precise. I want when I hover over a button to know what I am hovering over. 
 
-### All code from outside sources
+# All code from outside sources
 
 /* Styling of the footer courtesy of W3 schools */
 .footer{
@@ -160,47 +158,5 @@ As a user, I want the navigation bar to be clear and precise. I want when I hove
     text-align: center;
 }
 
-### Code separation
+# Code separation
 All website code - html and css was written by me. Any code that is commented was inspired by outside sources clearly identified in the css code. 
-
-### Testing
-
-All of the testing I did was throughout the development stage to ensure succesful deployment
-## navigation
-
-| Click home button > Page will load home page > Passed
-
-| Click podcast > Podcast page will load > passed 
-
-| click contact us > contact us page will load > passed
-
-## youtube videos
-
-home page video > video will play > passed
-
-episode 1 > video will play > passed
-
-episode 2 > video will play > passed
-
-episode 3 > video will play > passed
-
-## contact form
-
- email text box > I can write in box > passed
-
- x handle > I can write in box > passed
-
- comment box > I can write in box > passed
-
- submit > button will submit form > passed
-
-## responsiveness test 
-resize window > readable content > passed
-
-navigation resize > bar still visible > passed
-
-video resize > visible videos > passed 
-
-## deployable website 
-
-website is fully deployed in the link: https://jordanmcodes.github.io/LCS-Report-podcast-website/podcast.html
