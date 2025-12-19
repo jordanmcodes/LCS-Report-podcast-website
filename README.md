@@ -52,6 +52,8 @@ Autoplaying videos are annoying, which is why every video on the website will ha
 
 Font size and font used will be consistent throughout, making them both easy to read. 
 
+For youtube videos opening in a new tab. YouTube has a built in feature for websites that allows you to open a new tab simply through clicking the title of the video. 
+
 ### Organization
 The information on every page will be displayed in a clear and precise manner. Underneat the navigation bar on each page of my website there will be a large h1/h2 clearly explaining what page you are on.
 
