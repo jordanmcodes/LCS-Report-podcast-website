@@ -170,3 +170,46 @@ All website code - html and css was written by me. Any code that is commented wa
 | Home Button | Click home button | The page will reset | Page resets |
 | Podcast Button | Clock podcast button | The website will navigate to podcast page | Website navigates to podcast page | 
 | Contact Us Button | Click Contact Us Button | Website will navigate to Contact Us Page | Website navigates to Contact Us page | 
+
+### Home Page Content 
+
+| Website feature | Action | Expected Result | Actual Result |
+|-----------------|--------|-----------------|---------------|
+|Featured Video | Click play on the video | Video will play | Video plays sucessfully on the page | 
+|Intro text | Read text on page | Text is readable | Text is displayed clearly | 
+| Video layout | Resize window | Video and content stays centered | Layout remains consistent 
+
+### Podcast page content 
+
+| Website feature | Action | Expected Result | Actual Result |
+|-----------------|--------|-----------------|---------------|
+| Ep 1 | Click play on video | Video will play | Video plays |
+| Ep 2 | Click play on video | Video will play | Video plays |
+| Ep 3 | Click play on video | Video will play | Video plays |
+| Episode text | Read text on screen | Text is readable | Text displayed is readable | 
+| Video layout | Resize window | videos remain centered | Layout is consistent |
+
+### Content Page 
+
+| Website feature | Action | Expected Result | Actual Result |
+|-----------------|--------|-----------------|---------------|
+| Email | Type an email | Text appears | Text works correctly | 
+| X handle input | Type X handle | Text appears | Text works correctly | 
+| Comment area | Type comment | Text Appears | Text works correctly |
+| Submit button | Click submit | Form submits | Button works correctly | 
+
+### Responsiveness 
+
+| Website feature | Action | Expected Result | Actual Result |
+|-----------------|--------|-----------------|---------------|
+| Navigation bar | Resize window | Buttons stack | Buttons remain useable | 
+| Page content | Resize window | Videos stay centered | layout remains same 
+| Footer | Resize window | Footer remains at bottom | Footer behaves correctly | 
+
+### Accessibility 
+
+| Website feature | Action | Expected Result | Actual Result |
+|-----------------|--------|-----------------|---------------|
+|Videos | Check alt text | Each video has an alt text for users | Alt text is correct | 
+| Colours | Check colours | All colours work well and don't clash | Colours mesh well | 
+| Aria labels | Inspect | Each video has descriptive aria label | labels are present 
