@@ -160,3 +160,11 @@ As a user, I want the navigation bar to be clear and precise. I want when I hove
 
 # Code separation
 All website code - html and css was written by me. Any code that is commented was inspired by outside sources clearly identified in the css code. 
+
+# Testing
+
+### Navigation Bar
+
+| Website feature | Action | Expected Result | Actual Result |
+|-----------------|--------|-----------------|---------------|
+| Home Button | Click home button | The button will do nothing |
