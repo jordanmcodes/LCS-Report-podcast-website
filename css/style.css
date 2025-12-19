@@ -117,8 +117,7 @@ body{
 }
 
 .episode-2-text{
-    color: beige;
-    outline-color: red;
+    color:#ffbd59;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     line-height: 1.5;
