@@ -23,6 +23,30 @@ Users will be able to find the latest episodes with in-depth video descriptions 
 
 ## How you can deploy the website
 
+Here are the deployment steps needed to deploy my website to your GitHub. 
+
+## Deployment steps
+1. You can download or clone my website repository straight from GitHub here: (https://github.com/jordanmcodes/LCS-Report-podcast-website)
+2. Please ensure that all of the files that I have created remain in the same structure and location:
+ - index.html
+ - podcast.html
+ - contact.html
+ - assets/css/style.css
+ - assets/images
+3. Please either upload or push the website to your own repository 
+ - Log into your GitHub
+ - Click on New Repository
+ - Name your repository then create it
+ - Upload the files that I have created with the steps add file > upload files. Or simply push the files using Git
+ - Please ensure that all of the files I have created remain the same name and are clearly visible in your repository
+4. Open the repository you have just created with the files in place and go to settings
+5. Go to pages
+6. Select the `main` branch and set folder to `root` 
+7. Press save to ensure all of the settings you just adjusted is saved
+8. Wait at the top of the page for GitHub to generate a live link, this will be the link where your website is hosted
+9. Once the link has been generated, click it to view your live website
+
+
 # Code that is from external sources: 
 
 My navigation bar design was guided by W3Schools (https://www.w3schools.com/howto/howto_js_topnav.asp)
