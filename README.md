@@ -1,5 +1,21 @@
 # LCS Report Podcast website
 
+# Table of Contents
+- [What is the purpose for the website?](#what-is-the-purpose-for-the-website)
+- [What value does my website provide?](#what-value-does-my-website-provide)
+- [How you can deploy the website](how-you-can-deploy-the-website)
+- [Code that is from external sources](#code-that-is-from-external-sources)
+- [Code written by me](#code-written-by-me)
+- [Website design using wireframes](website-design-using-wireframes)
+- [Navigation bar + structured layout](#navigation-bar-+-structured-layout)
+    - [Home page](#home-page)
+    - [Podcast page](#podcast-page)
+    - [Contact us page](#contact-us-page)
+    - [Home](#home)
+    - [Podcast](#podcast)
+- [Organization](#organization)
+- [Completed Pages](#completed-pages)
+
 ## What is the purpose for the website?
 This website is to provide a central hub for the fans of the LCS Report podcast. A place where they will be able to stay up to date on the latest videos while also providing a place for those who are impaired and may not be able to see the videos, our descriptions next to each video will give them all of the information they need. It's designed to give them a clearer way of accessing all of our content. 
 
@@ -7,14 +23,6 @@ This website is to provide a central hub for the fans of the LCS Report podcast.
 Users will be able to find the latest episodes with in-depth video descriptions next to each episode. Our website embeds the youtube videos onto the page so once they are done with one episode, they can move onto the next. 
 
 ## How you can deploy the website
-You can either access the website through this link: https://jordanmcodes.github.io/LCS-Report-podcast-website/index.html
-
-### Or you can deploy the website yourself:
-
-- Download the repository from github here: https://github.com/jordanmcodes/LCS-Report-podcast-website
-- Ensure all html, css and asset files are in the same structure that I have in place
-- Push the repository that you have just downloaded to github, enabling the pages in the repository settings
-- Wait for github to produce a working link
 
 # Code that is from external sources: 
 
@@ -112,6 +120,8 @@ Each page will follow a header, paragraph, and content formula.
 ![home page](Assets/Images/home-page.png)
 
 As a user, the main thing that I want to see from this home page is an idea of what the podcast is about. I want to see a description and featured video from the jump
+
+# Completed Pages
 
 # Finished podcast page
 ![podcast page](Assets/Images/podcast-page.png)
