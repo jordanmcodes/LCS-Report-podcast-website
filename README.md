@@ -10,6 +10,10 @@
 - [Navigation bar + structured layout](#navigation-bar--structured-layout)
 - [Organization](#organization)
 - [Completed Pages](#completed-pages)
+- [All code from outside sources](#all-code-from-outside-sources)
+- [Code separation](#code-separation)
+- [Testing](#testing)
+- [Lighthouse performance checker](#lighthouse-performance-checker)
 
 ## What is the purpose for the website?
 This website is to provide a central hub for the fans of the LCS Report podcast. A place where they will be able to stay up to date on the latest videos while also providing a place for those who are impaired and may not be able to see the videos, our descriptions next to each video will give them all of the information they need. It's designed to give them a clearer way of accessing all of our content. 
