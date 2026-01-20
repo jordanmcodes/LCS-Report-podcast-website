@@ -4,6 +4,7 @@
 - [What is the purpose for the website?](#what-is-the-purpose-for-the-website)
 - [What value does my website provide?](#what-value-does-my-website-provide)
 - [How you can deploy the website](#how-you-can-deploy-the-website)
+- [## Cloning the website for Visual Studio Code](#cloning-the-website-for-visual-studio-code)
 - [Code that is from external sources](#code-that-is-from-external-sources)
 - [Code written by me](#code-written-by-me)
 - [Website design using wireframes](#website-design-using-wireframes)
@@ -45,6 +46,21 @@ Here are the deployment steps needed to deploy my website to your GitHub.
 7. Press save to ensure all of the settings you just adjusted is saved
 8. Wait at the top of the page for GitHub to generate a live link, this will be the link where your website is hosted
 9. Once the link has been generated, click it to view your live website
+
+## Cloning the website for Visual Studio Code
+Below will be a very simple step-by-step instruction guide if you wish to clone my repository for Visual Studio code. 
+
+1. You can download or clone my website repository straight from GitHub here: (https://github.com/jordanmcodes/LCS-Report-podcast-website)
+
+2. To download, go to the repository using the link. 
+3. In the top right on GitHub, you'll see a green dropdown that says "code" 
+4. Click that, and press the "Copy URL to Clipboard" button. 
+5. Head over to Visual Studio Code.
+6. On the left-hand navigation bar, click source control.
+7. Click "Clone Repository".
+8. The repository URL box will open, this is where you'll paste my repository URL.
+9. Select the location you wish to store the website, do ensure however that the file names remain the same.
+10. Click open or open in new window, whichever your preference. 
 
 
 # Code that is from external sources: 
