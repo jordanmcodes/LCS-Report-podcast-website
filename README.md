@@ -104,13 +104,13 @@ Here is how each page will playout:
 Having the navigation bar in the same position helps the design remain consistent, making the website accessible for its users as the position of the navigation bar and its buttons will be in the same place. 
 
 ## Wireframe for the home page
-![Home page](Assets/Images/home-wireframe.png)
+![Home page](assets/images/home-wireframe.png)
 
 ## Wireframe for the podcast page
-![Podcast](Assets/Images/podcast-wireframe.png)
+![Podcast](assets/images/podcast-wireframe.png)
 
 ## Wireframe for the contact us page 
-![Contact us](Assets/Images/contact-wireframe.png)
+![Contact us](assets/images/contact-wireframe.png)
 
 ## How I will make my website accessible 
 My website will be easy to read due to the stark contrast differences between the colors I will be using on the website. In the podcasts graphics on youtube, we use a darker blue background combined with golden borders, graphics etc. This will be the same for the website. I will use the same background image for the website, with the navigation bar being the same golden color used in the podcast itself.
@@ -144,35 +144,35 @@ Each page will follow a header, paragraph, and content formula.
 
 
 ## CSS Validate
-![CSS Validate](Assets/Images/css-validate.png)
+![CSS Validate](assets/images/css-validate.png)
 
 ## index page validate
-![index validate](Assets/Images/index-validate.png)
+![index validate](assets/images/index-validate.png)
 
 ## podcast page validate
-![podcast validate](Assets/Images/podcast-validate.png)
+![podcast validate](assets/images/podcast-validate.png)
 
 ## contact page validate
-![contact validate](Assets/Images/contact-validate.png)
+![contact validate](assets/images/contact-validate.png)
 
 # Finished home page
-![home page](Assets/Images/home-page.png)
+![home page](assets/images/home-page.png)
 
 As a user, the main thing that I want to see from this home page is an idea of what the podcast is about. I want to see a description and featured video from the jump
 
 # Completed Pages
 
 # Finished podcast page
-![podcast page](Assets/Images/podcast-page.png)
+![podcast page](assets/images/podcast-page.png)
 
 As a user, the main thing I want from a podcast page is to see the full list of episodes available. Having more than one is important to me, so I want to make sure that I am seeing a full variety of episodes.
 
 # Finished Contact page
-![contact page](Assets/Images/contact-page.png)
+![contact page](assets/images/contact-page.png)
 As a user, I want an easy way to contact the podcast I am a fan of. This should allow me to send a message, as long as I want, to the podcast and know they are going to be recieving it. 
 
 # Finished navigation
-![navigation](Assets/Images/navigation.png)
+![navigation](assets/images/navigation.png)
 As a user, I want the navigation bar to be clear and precise. I want when I hover over a button to know what I am hovering over. 
 
 # All code from outside sources
@@ -265,4 +265,4 @@ All website code - html and css was written by me. Any code that is commented wa
 
 # Lighthouse performance checker 
 
-![Lighthouse](Assets/Images/lighthouse.png)
+![Lighthouse](assets/images/lighthouse.png)
